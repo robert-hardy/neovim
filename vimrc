@@ -4,6 +4,7 @@ set rtp+=~/.vim/bundle/Vundle.vim
 call vundle#begin()
 Plugin 'gmarik/Vundle.vim'
 Plugin 'dense-analysis/ale'
+Plugin 'vim-airline/vim-airline'
 call vundle#end()
 
 
