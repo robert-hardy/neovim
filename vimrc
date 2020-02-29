@@ -5,6 +5,7 @@ call vundle#begin()
 Plugin 'gmarik/Vundle.vim'
 Plugin 'dense-analysis/ale'
 Plugin 'vim-airline/vim-airline'
+Plugin 'davidhalter/jedi-vim'
 call vundle#end()
 
 
